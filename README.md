@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/philipp-mieden-5a0790139/">
     <img src="https://img.shields.io/badge/-philipp%20mieden-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
+  <a href="https://dreadl0ck.net">
+    <img src="https://img.shields.io/badge/dreadl0ck.net-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
   <a href="mailto:dreadl0ck@protonmail.ch">
     <img src="https://img.shields.io/badge/dreadl0ck@protonmail.ch-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
