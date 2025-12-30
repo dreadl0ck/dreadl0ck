@@ -14,8 +14,8 @@
 </p>
 
 <a href="https://github.com/dreadl0ck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreadl0ck&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats-beta-ashy-61.vercel.app/api?username=dreadl0ck&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/dreadl0ck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreadl0ck&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats-beta-ashy-61.vercel.app/api/top-langs/?username=dreadl0ck&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
