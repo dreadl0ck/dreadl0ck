@@ -24,4 +24,4 @@
 <br>  
 
 
-Hi my name is Phil - I'm a cybersecurity engineer based in Amsterdam and CEO of [Amsterdam Technologies](https://amsterdam-technologies.com).
+Hi my name is Phil - I'm a cybersecurity engineer based in Amsterdam and Head of [Amsterdam Technologies](https://amsterdam-technologies.com).
